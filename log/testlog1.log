@@ -1,0 +1,34 @@
+2020-06-25 10:23:43,078 [main] INFO Logger_file - click on register
+2020-06-25 10:23:44,431 [main] INFO Logger_file - Reguster form was filled successfully
+2020-06-25 10:23:44,551 [main] INFO Logger_file - yes to subscribe is selected
+2020-06-25 10:23:44,682 [main] INFO Logger_file - privacy policy is selected
+2020-06-25 10:23:47,124 [main] INFO Logger_file - Continue button is clicked
+2020-06-25 10:24:36,686 [main] INFO Logger_file - click on register
+2020-06-25 10:24:37,258 [main] INFO Logger_file - click on register
+2020-06-25 10:24:38,715 [main] INFO Logger_file - Reguster form was filled successfully
+2020-06-25 10:24:38,909 [main] INFO Logger_file - yes to subscribe is selected
+2020-06-25 10:24:39,135 [main] INFO Logger_file - privacy policy is selected
+2020-06-25 10:24:39,207 [main] INFO Logger_file - Reguster form was filled successfully
+2020-06-25 10:24:39,372 [main] INFO Logger_file - yes to subscribe is selected
+2020-06-25 10:24:39,551 [main] INFO Logger_file - privacy policy is selected
+2020-06-25 10:24:40,133 [main] INFO Logger_file - Continue button is clicked
+2020-06-25 10:24:40,696 [main] INFO Logger_file - Continue button is clicked
+2020-06-25 10:24:45,746 [main] INFO Logger_file - Assertion passed
+2020-06-25 10:25:03,704 [main] INFO Logger_file - click on register
+2020-06-25 10:25:04,896 [main] INFO Logger_file - Reguster form was filled successfully
+2020-06-25 10:25:05,013 [main] INFO Logger_file - yes to subscribe is selected
+2020-06-25 10:25:05,177 [main] INFO Logger_file - privacy policy is selected
+2020-06-25 10:25:05,994 [main] INFO Logger_file - Continue button is clicked
+2020-06-25 10:59:45,700 [main] INFO Logger_file - click on register
+2020-06-25 10:59:56,287 [main] INFO Logger_file - click on register
+2020-06-25 10:59:57,734 [main] INFO Logger_file - Register form was filled successfully
+2020-06-25 10:59:57,852 [main] INFO Logger_file - yes to subscribe is selected
+2020-06-25 10:59:57,983 [main] INFO Logger_file - privacy policy is selected
+2020-06-25 10:59:59,246 [main] INFO Logger_file - Continue button is clicked
+2020-06-25 11:00:04,329 [main] INFO Logger_file - Assertion passed
+2020-06-25 11:03:12,131 [main] INFO Logger_file - click on register
+2020-06-25 11:03:13,285 [main] INFO Logger_file - Register form was filled successfully
+2020-06-25 11:03:13,399 [main] INFO Logger_file - yes to subscribe is selected
+2020-06-25 11:03:13,530 [main] INFO Logger_file - privacy policy is selected
+2020-06-25 11:03:14,676 [main] INFO Logger_file - Continue button is clicked
+2020-06-25 11:03:19,768 [main] INFO Logger_file - Assertion passed
